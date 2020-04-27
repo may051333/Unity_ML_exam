@@ -401,19 +401,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Script
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Script
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\USER\Desktop\Unity_ML_exam\Unity_ML_exam
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 5a380000
-    m_LastClickedID: 14426
+    m_SelectedIDs: 00380000
+    m_LastClickedID: 14336
     m_ExpandedIDs: 0000000000380000023800000438000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -623,9 +623,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.2781076, y: -2.5747316, z: -1.7406044}
+    m_Target: {x: -2.17901, y: 1.9267955, z: 1.6608286}
     speed: 2
-    m_Value: {x: 1.2781076, y: -2.5747316, z: -1.7406044}
+    m_Value: {x: -2.17901, y: 1.9267955, z: 1.6608286}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -671,13 +671,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.21828462, y: 0.77424574, z: -0.35443437, w: 0.47680652}
+    m_Target: {x: 0.08851071, y: 0.897269, z: -0.20990469, w: 0.37828213}
     speed: 2
-    m_Value: {x: 0.21827668, y: 0.7742176, z: -0.3544215, w: 0.47678918}
+    m_Value: {x: 0.08850703, y: 0.8972317, z: -0.20989595, w: 0.3782664}
   m_Size:
-    m_Target: 18.27118
+    m_Target: 9.570475
     speed: 2
-    m_Value: 18.27118
+    m_Value: 9.570475
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -733,7 +733,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 70fbffff
+      m_ExpandedIDs: d8ddfffff8ddffffbadeffff70fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
